@@ -1,0 +1,9 @@
+{
+  "apps" : [
+    { "id": 1, "name" : "Etude Clinique",  "description" : "Gérer vos cohortes et études cliniques en utilisant un canal de diffusion unique.", "image" : "https://sante.almerys.com/pmt/store/assets/img/CLINICA.afe5d7e5aa41301d51194b88736f7358.jpg"},
+    { "id": 2, "name" : "Analitys",  "description" : "Visualisez les derniers rapports et indicateurs qui vous importe pour améliorer la performance de votre activité.", "image" : "https://sante.almerys.com/pmt/store/assets/img/ANALITYS.ed1968004a804e2344a5b8dffcb1582e.jpg"},
+    { "id": 3, "name" : "Banco",  "description" : "Gérez vos comptes et effectuez des opérations bancaire en toute simplicité et sécurité.", "image" : "https://sante.almerys.com/pmt/store/assets/img/BANCO.89737b10bca4462a4ffbeb6dc0cc63e5.jpg"},
+    { "id": 4, "name" : "Coffre Fort Numérique",  "description" : "Sécurisez l'accès à vos documents et média, avec une sécurité maximale.", "image" : "https://sante.almerys.com/pmt/store/assets/img/EBEE_SAFE.da52d20fd1e260a8146cc3777849b1e3.jpg"},
+    { "id": 5, "name" : "Signature Electronique",  "description" : "Simplifiez vos démarches, sécurisez vos documents avec la Signature électronique.", "image" : "https://sante.almerys.com/pmt/store/assets/img/EBEE_SIGN.fa42dba4eb4ea3f52dbe690e13c17f40.jpg"}
+  ]
+}
